@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74.099586mm"
+   height="41.47942mm"
+   viewBox="0 0 74.099586 41.47942"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="diffusion-eq-heaviside-membrane.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.5697871"
+     inkscape:cx="166.39648"
+     inkscape:cy="96.224226"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <clipPath
+       id="clipPath5368">
+      <path
+         clip-rule="nonzero"
+         d="m 242,10 h 7 v 6.9375 h -7 z m 0,0"
+         id="path5756" />
+    </clipPath>
+    <clipPath
+       id="clipPath9249">
+      <path
+         clip-rule="nonzero"
+         d="m 241,10 h 8 v 6.9375 h -8 z m 0,0"
+         id="path2368" />
+    </clipPath>
+    <clipPath
+       id="clipPath6480">
+      <path
+         clip-rule="nonzero"
+         d="m 224,20 h 8 v 10.503906 h -8 z m 0,0"
+         id="path7695" />
+    </clipPath>
+    <clipPath
+       id="clipPath2502">
+      <path
+         clip-rule="nonzero"
+         d="m 232,24 h 8 v 6.503906 h -8 z m 0,0"
+         id="path3557" />
+    </clipPath>
+    <clipPath
+       id="clipPath7425">
+      <path
+         clip-rule="nonzero"
+         d="m 224,20 h 8 v 10.503906 h -8 z m 0,0"
+         id="path1636" />
+    </clipPath>
+    <clipPath
+       id="clipPath5007">
+      <path
+         clip-rule="nonzero"
+         d="m 232,24 h 8 v 6.503906 h -8 z m 0,0"
+         id="path6357" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.626796,-32.40334)">
+    <rect
+       style="fill:#ffb380;stroke:none;stroke-width:0.352777;stroke-dasharray:1.41111, 0.352777;stroke-dashoffset:0"
+       id="rect933"
+       width="38.318695"
+       height="32.611656"
+       x="81.157181"
+       y="41.094715" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.352777"
+       id="rect198"
+       width="73.746811"
+       height="32.611656"
+       x="45.803185"
+       y="41.094715" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.352777;stroke-dasharray:1.41111, 0.352777;stroke-dashoffset:0"
+       d="M 81.008947,73.558133 V 41.020596"
+       id="path254" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.352777;stroke-dasharray:none;stroke-dashoffset:0"
+       x="95.359573"
+       y="35.433643"
+       id="text1149"><tspan
+         sodipodi:role="line"
+         id="tspan1147"
+         style="fill:#000000;stroke:none;stroke-width:0.352778;stroke-dasharray:none"
+         x="95.359573"
+         y="35.433643">Membrane</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow1L)"
+       d="m 85.279604,34.544231 -2.445874,3.4094"
+       id="path1733" />
+  </g>
+</svg>
